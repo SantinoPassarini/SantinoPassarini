@@ -93,7 +93,7 @@ I enjoy building software from scratch, learning how systems work internally, an
 
 ## 🎓 Education
 
-- **Licenciatura en Sistemas** — *National University of Hurlingham (UNAHUR)*
+- **Bachelor's Degree in Computer Science** — *National University of Hurlingham (UNAHUR)*
 
 ---
 
