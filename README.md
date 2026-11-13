@@ -58,35 +58,30 @@ I enjoy building software from scratch, learning how systems work internally, an
 
 ## 🚀 Featured Projects
 
-<b>📺 Optical Management System</b> (Desktop Application)
+<b>💰 Ledger</b> (Personal Finance Management Application)
+
+- **Description:** Full-stack personal finance application for managing accounts, transactions, transfers, and monthly budgets.
+- **Architecture:** Windows Forms desktop client communicating with an ASP.NET Core REST API, backed by PostgreSQL.
+- **Features:** JWT authentication, user data isolation, financial dashboard, budget tracking and integration tests.
+- **Stack:** `C#`, `.NET 8`, `WinForms`, `ASP.NET Core`, `EF Core`, `PostgreSQL`.
+- 🔗 **[View Repository](https://github.com/SantinoPassarini/Ledger/tree/main)**
 
 <br/>
 
-* **Description:** Comprehensive system for managing optical shops (patients, prescriptions, inventory and billing).
-* **Architecture:** Implementation of **Repository Pattern** and layer separation.
-* **Stack:** `C#`, `.NET`, `WinForms`, `PostgreSQL`.
-* 🔗 **[View Repo](LINK_DE_REPO)**
+<b>📺 Optical Management System</b> (Desktop Application)
 
+- **Description:** Management system for optical shops, including patients, prescriptions, inventory and billing.
+- **Architecture:** Repository Pattern and layered architecture.
+- **Stack:** `C#`, `.NET`, `WinForms`, `PostgreSQL`.
+- 🔗 **[View Repository](LINK_DE_REPO)**
 
 <br/>
 
 <b>🗃️ SQL Practice</b> (Database Exercises)
 
-<br/>
-
-* **Description:** Repository for database practice, solving complex queries, and optimization challenges.
-* **Stack:** `PostgreSQL`, `SQL Server`.
-* 🔗 **[View Repo](LINK_DE_REPO)**
-
-
-<br/>
-
-<b>📚 Library API</b> (REST API) — <i>In Progress</i>
-
-<br/>
-
-* **Description:** RESTful API under development to consolidate good backend practices.
-* **Stack:** `ASP.NET Core`, `EF Core`, `JWT`, `Swagger`.
+- **Description:** Repository for database practice, solving queries and exploring relational database concepts.
+- **Stack:** `PostgreSQL`, `SQL Server`.
+- 🔗 **[View Repository](LINK_DE_REPO)**
 
 
 ---
