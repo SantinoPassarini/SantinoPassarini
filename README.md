@@ -50,9 +50,10 @@ I enjoy building software from scratch, learning how systems work internally, an
 
 ## 🌱 Currently Learning
 
-- 🚀 **ASP.NET Core & REST APIs**
+- 🚀 **Backend development with ASP.NET Core**
 - 🗄️ **Entity Framework Core**
-- 🏗️ **Clean Architecture**
+- 🧪 **Automated testing with xUnit**
+- 🏗️ **Software architecture and design principles**
 
 ---
 
